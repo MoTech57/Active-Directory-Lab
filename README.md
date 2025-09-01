@@ -22,36 +22,20 @@ This lab demonstrates how to enhance anonymity and security while performing net
 - <b>Tor Network</b>  
 - <b>Virtualized Lab Environment (VMware/VirtualBox)</b>  
 
-<h2>Red Team🟥</h2>
+<h2>Workflow</h2>
 
 <p align="center">
 
-<b>Active Directory Windows Server will be used for the lab:</b><br/>  
-<img src="https://i.imgur.com/ePrPX0w.png" height="100%" width="100%" alt="Active Directory Setup"/>  
+<b>Commenet random_chain and uncomment dynamic_chain in proxychains.conf :</b><br/>  
+<img src="https://i.imgur.com/M2IuRAh.png" height="100%" width="100%" alt="Active Directory Setup"/>  
 <br /><br />
 
-<b>Create keylogger.py in Visual Studio Code:</b><br/>  
-<img src="https://i.imgur.com/z1ezUmI.png" height="80%" width="80%" alt="Keylogger Code in VSCode"/>  
+<b>Add socks5 to ProxyList :</b><br/>  
+<img src="https://i.imgur.com/pz3JAKY.png" height="100%" width="100%" alt="Active Directory Setup"/>  
 <br /><br />
 
-<b>Install pynput:</b><br/>  
-<img src="https://i.imgur.com/eXGMEH7.png" height="80%" width="80%" alt="Installing pynput"/>  
+<b>Install Tor browser:</b><br/>  
+<img src="https://i.imgur.com/RHu6Bv2.png" height="100%" width="100%" alt="Active Directory Setup"/>  
 <br /><br />
 
-<b>Build the Keylogger:</b><br/>  
-<img src="https://i.imgur.com/0cKrMkA.png" height="80%" width="80%" alt="Keylogger Execution"/>  
-<br /><br />
-
-<b>Install PyInstaller:</b><br/>  
-<img src="https://i.imgur.com/NU4WYst.png" height="80%" width="80%" alt="Installing PyInstaller"/>  
-<br /><br />
-
-<b>Compile keylogger.py into an .exe:</b><br/>  
-<img src="https://i.imgur.com/NKSrqYi.png" height="80%" width="80%" alt="Compiling to EXE with PyInstaller"/>  
-<br /><br />
-
-<b>Locate the file and simulate targeting a victim via email:</b><br/>  
-<img src="https://i.imgur.com/tyHbeEz.png" height="80%" width="80%" alt="Generated Executable File"/>  
-<img src="https://i.imgur.com/XKIvdpF.png" height="40%" width="80%" alt="Email Simulation"/>  
-<br /><br />
 </p>
