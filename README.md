@@ -38,4 +38,13 @@ This lab demonstrates how to enhance anonymity and security while performing net
 <img src="https://i.imgur.com/RHu6Bv2.png" height="100%" width="100%" alt="Active Directory Setup"/>  
 <br /><br />
 
+<b>Start Tor:</b><br/>  
+<img src="https://i.imgur.com/G81obtB.png" height="100%" width="100%" alt="Active Directory Setup"/> 
+<img src="https://i.imgur.com/ODdzJel.png" height="100%" width="100%" alt="Active Directory Setup"/>  
+<br /><br />
+
+<b>Use Proxychains to route traffic throught tor:</b><br/>  
+<img src="https://i.imgur.com/jm6bTKm.png" height="100%" width="100%" alt="Active Directory Setup"/>  
+<br /><br />
+
 </p>
