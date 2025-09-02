@@ -47,4 +47,8 @@ This lab demonstrates how to enhance anonymity and security while performing net
 <img src="https://i.imgur.com/jm6bTKm.png" height="100%" width="100%" alt="Active Directory Setup"/>  
 <br /><br />
 
+<b>Confirm with dns leak test:</b><br/>  
+<img src="https://i.imgur.com/GDF0JMD.png" height="100%" width="100%" alt="Active Directory Setup"/>  
+<br /><br />
+
 </p>
